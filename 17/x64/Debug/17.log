@@ -1,0 +1,8 @@
+﻿  Решение.c
+C:\Users\ПК\source\repos\17\17\Решение.c(23,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\ПК\source\repos\17\17\Решение.c(42,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\ПК\source\repos\17\17\Решение.c(58,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\ПК\source\repos\17\17\Решение.c(80,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\ПК\source\repos\17\17\Решение.c(127,2): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\ПК\source\repos\17\17\Решение.c(135,12): warning C4101: x: неиспользованная локальная переменная
+  17.vcxproj -> C:\Users\ПК\source\repos\17\x64\Debug\17.exe
